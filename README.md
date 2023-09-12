@@ -14,3 +14,13 @@ the tool, what is good in the tool, why this tool is important and to do what ta
 the tool. 
 Attention: Also list all the tools that you rejected in separate sheet of the same excel file with the reason of 
 your rejection.
+
+
+c) Images: The final photo realistic images of the 4 products (mentioned below) that you achieved as per 
+your methodology document. 
+ Castorama bathtub with tap + one Castorama furniture. 
+ Castorama garden shelter + lawnmower + Neva or garden table and chairs. 
+ Bathroom with Castorama shower curtain. 
+ Castorama lawnmower + rack and shovel
+![3548baec-1505-4dcb-bece-275c16e61594](https://github.com/LogeshkumarTamilselvam/MF-media/assets/125792268/f33db4b9-1308-4380-bdfa-204a1df2a792)
+
